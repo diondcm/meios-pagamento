@@ -1,0 +1,61 @@
+Links Úteis para integração com mobile
+
+PagSeguro:
+Direto no POS:
+https://dev.pagseguro.uol.com.br/documentacao/pagamento-presencial/moderninha-wifi
+
+API de pagamentos:
+https://dev.pagseguro.uol.com.br/referencia-da-api/api-de-pagamentos-pagseguro
+
+Intent
+https://dev.pagseguro.uol.com.br/documentacao/pagamento-online/aplicativo-pagseguro/app2app
+
+MercadoPago
+https://devtools.mercadopago.com/restconsole/
+https://api.mercadopago.com/v1/subscriptions/SUBSCRIPTION_ID?access_token=ACCESS_TOKEN
+https://github.com/mercadopago/point-android_integration
+https://github.com/mercadopago/px-android
+
+E-mail
+https://www.mercadopago.com.br/developers/en/solutions/money-requests/
+
+Deep Link
+https://forums.embarcadero.com/thread.jspa?threadID=254446&tstart=0
+
+iZettle
+https://www.izettle.com/gb/developer
+
+Intent's & Deep Links
+https://developer.android.com/training/sharing/receive.html
+
+Sum Up
+https://github.com/sumup/sumup-android-sdk
+https://github.com/sumup/sumup-ios-sdk
+
+API
+http://docs.sumup.com/rest-api/
+
+Adyen
+  App
+https://docs.adyen.com/developers/in-app-integration?platform=inapp-ios
+  PoS
+https://docs.adyen.com/developers/point-of-sale-integration
+  API
+https://docs.adyen.com/developers/marketpay/marketpay-quick-start
+
+Sys Pay
+https://github.com/syspay/merchant-sdk-php
+https://app.syspay.com/docs/api/merchant_api.html
+
+Masterpass
+https://developer.mastercard.com/documentation/masterpass-psp-onboarding/1
+
+Moip
+https://dev.moip.com.br/docs
+https://dev.moip.com.br/v2.0/reference
+http://solucoes.moip.com.br/magento
+https://github.com/elisei/moip-transparente-magento/
+https://github.com/moip?utf8=%E2%9C%93&q=sdk&type=&language=
+
+iChegou
+http://ntk.com.br/delivery-mobile/
